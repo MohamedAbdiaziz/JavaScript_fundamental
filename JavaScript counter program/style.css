@@ -1,0 +1,11 @@
+.container{
+    display: block;
+    text-align: center;
+    justify-items: center;
+    width: 30%;
+}
+#label{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
